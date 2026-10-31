@@ -129,6 +129,13 @@ Then unplug and replug the iPhone and tap **Trust**.
 
 ---
 
+## Authors & Contributors
+
+- **[ludzof](https://github.com/ludzof)** — Project Creator & Maintainer
+- **[Antigravity](https://deepmind.google/)** (Google DeepMind) — Diagnostic Engineering & Script Development
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
