@@ -1,0 +1,14 @@
+# Logs and scratch files
+*.log
+*.tmp
+*~
+
+# Windows thumbnail and system caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor / IDE directories
+.vscode/
+.idea/
